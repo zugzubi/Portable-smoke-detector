@@ -30,14 +30,14 @@ This project is lightweight, battery-powered, and easy to deploy in small rooms 
 ---
 
 ## Circuit Diagram
-![Circuit Diagram](images/circuit-diagram.png)
+![Circuit Diagram](Screenshot 2025-11-13 142429.png)
 
 ---
 
 ## Project Images
 
 ### Breadboard Setup
-![Breadboard Setup](images/breadboard-setup.jpg)
+![Breadboard Setup](image.png)
 
 
 ---
