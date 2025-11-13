@@ -30,7 +30,7 @@ This project is lightweight, battery-powered, and easy to deploy in small rooms 
 ---
 
 ## Circuit Diagram
-![Circuit Diagram](Screenshot 2025-11-13 142429.png)
+![Circuit Diagram](circuit.png)
 
 ---
 
