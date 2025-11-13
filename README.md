@@ -54,6 +54,8 @@ This project is lightweight, battery-powered, and easy to deploy in small rooms 
 ---
 
 ## 💻 Arduino Code
+
+```PYTHON
 #define LED 2
 #define Buzzer 3
 #define Sensor A1
@@ -81,4 +83,5 @@ void loop() {
 
   delay(500); // small delay for stable readings
 }
+```
   
